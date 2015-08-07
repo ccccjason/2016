@@ -4,15 +4,15 @@
     <title>2016</title>
   </head>
   <body>
-    <table style="text-align: left; margin-left: auto; margin-right: auto; width: 798px; height: 561px;"
+    <table style="text-align: left; margin-left: auto; margin-right: auto; width: 806px; height: 561px;"
 
       border="1">
       <tbody>
         <tr>
           <td style="width: 187.15px;"><br>
           </td>
-          <td style="text-align: center; width: 280.533px;">宜蘭 - 三星兩億</td>
-          <td style="text-align: center;">台東 - 貓山</td>
+          <td style="text-align: center; width: 294.5px;">宜蘭 - 三星兩億</td>
+          <td style="text-align: center; width: 294.95px;">台東 - 貓山</td>
         </tr>
         <tr>
           <td style="text-align: left;">(2015/12/30 ~ 2016/1/4)<br>
@@ -26,18 +26,20 @@
             <div id="imwidget" style="margin-left: 5px;">
             </div>
             房間數量</td>
-          <td style="text-align: left;">兩人雅房4間、四人雅房1間、可住 12人</td>
-          <td style="text-align: left;">四人套房2間、雙人套房1間、可住 10人</td>
+          <td style="text-align: left;">兩人雅房4間、四人雅房1間、<br>
+            <span style="color: #000099;">可住 12人</span></td>
+          <td style="text-align: left; margin-left: 12px;">四人套房2間、雙人套房1間、<br>
+            <span style="color: #000099;">可住 10人</span></td>
         </tr>
         <tr>
           <td>市區距離</td>
-          <td style="text-align: left;">距離台東市區 3.9公里、車程10分鐘</td>
           <td style="text-align: left;">距離羅東市區 7.5公里、車程19分鐘</td>
+          <td style="text-align: left;">距離台東市區 3.9公里、車程10分鐘</td>
         </tr>
         <tr>
           <td style="height: 20px; text-align: left;">腳踏車</td>
           <td style="text-align: left;">有</td>
-          <td style="text-align: left; width: 287.533px;">有</td>
+          <td style="text-align: left;">有</td>
         </tr>
         <tr>
           <td style="text-align: left;">
@@ -121,4 +123,3 @@
     </div>
   </body>
 </html>
-
