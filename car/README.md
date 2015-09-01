@@ -1,5 +1,5 @@
 # 租車
-### 台東捷陞
+### 臺東捷陞
 ```
 http://www.089-230311.com.tw/
 服務項目
@@ -13,7 +13,7 @@ http://www.089-230311.com.tw/
 平日二～五營業時間早上７：００~晚上１２：００
 週休六．日．一或連假  營業時間早上６：００~晚上１２：００
 電話 : 089-230311
-地址 : 台東市新站路152巷7號 (火車站出口右前方第一家)
+地址 : 臺東市新站路152巷7號 (火車站出口右前方第一家)
 
 ◎ 以上價格以24小時內為一天計算,逾時另計收費．
 
@@ -52,16 +52,16 @@ http://www.089-230311.com.tw/
 ### 聯合租車
 ```
 http://www.uncar.net/rent.htm
-台東聯合租車位於台東火車站前100公尺，給您便捷的租車服務。
+臺東聯合租車位於臺東火車站前100公尺，給您便捷的租車服務。
 我們的服務有汽車租賃、司機代駕、旅遊諮詢、民宿介紹，滿足您的用車需求。
 　　◎以上價位為單日租金，以廿四小時計算，超時另外計費。
-　　◎本公司提供台東車站及台東機場免費接送服務；並提供知本地區、台東市區
+　　◎本公司提供臺東車站及臺東機場免費接送服務；並提供知本地區、臺東市區
 　　　、富岡碼頭...等交車服務【需加收服務費】。
 　　◎聯合貼心服務，關山取車、還車限用預約價．
-　　◎取車地點：台東車站店、台東機場、關山車站、知本地區。
-　　◎還車地點：台東車站店、台東機場、關山車站、知本地區、花蓮車站、花蓮機場。
-　　◎台東租花蓮還須加收手續費、台東地區【甲租乙還】限用預約價計費。
-　　◎持台新信用卡、國民旅遊卡預約本公司各式車輛享訂價7折優惠【限台東車站機場租還】。
+　　◎取車地點：臺東車站店、臺東機場、關山車站、知本地區。
+　　◎還車地點：臺東車站店、臺東機場、關山車站、知本地區、花蓮車站、花蓮機場。
+　　◎臺東租花蓮還須加收手續費、臺東地區【甲租乙還】限用預約價計費。
+　　◎持臺新信用卡、國民旅遊卡預約本公司各式車輛享訂價7折優惠【限臺東車站機場租還】。
 　　◎如預訂車遇不可抗拒因素時，本公司得以其他同等級車輛代替或退回訂金。
 
 　『租車須知』
@@ -92,18 +92,18 @@ http://www.uncar.net/rent.htm
 http://www.tungdi.com.tw/car.htm
 
 租車須知
-	承租人須攜帶台灣汽車駕駛執照及身分證。102年7月之前過期之駕照請換新，謝謝。
+	承租人須攜帶臺灣汽車駕駛執照及身分證。102年7月之前過期之駕照請換新，謝謝。
 	平日租金為一日之租金，不分淡季或旺季，農曆春節期間價格為定價。租金包含汽車強制險。
 	租賃汽車滿八小時以一日計。日租逾時每小時以一日租金的十分之ㄧ計，可彈性收費。
 	洽公.團體.長期租賃另有優惠，歡迎來電洽詢。
-	提供本店分店(台東市區.台東車站.台東機場)還車免收費用。另有飯店、富岡港口交車服務，須事先預約。
+	提供本店分店(臺東市區.臺東車站.臺東機場)還車免收費用。另有飯店、富岡港口交車服務，須事先預約。
 	本店為國民旅遊卡特約店，可使用信用卡消費。若為優惠價請以現金交易。機車不提供刷卡服務。
 	提供旅遊地圖、旅遊諮詢
 
 
 匯款帳號
 
-彰化銀行台東分行 009	戶名	帳號
+彰化銀行臺東分行 009	戶名	帳號
 東帝小客車租賃行	8508-01-24738-200
 ```
 
@@ -268,10 +268,10 @@ http://www.tungdi.com.tw/car.htm
 ```
 https://www.car-plus.com.tw/ugC_CarPrice.asp
 
-地址：	95058台東縣台東市新站路243號
+地址：	95058臺東縣臺東市新站路243號
 電話：	089-227-979
 營業時間：	8:30 ~ 20:30
-簡介：	台東火車站旁
+簡介：	臺東火車站旁
 
 ```
  <table width="100%" border="0" cellpadding="0" cellspacing="0">
@@ -709,8 +709,8 @@ https://www.car-plus.com.tw/ugC_CarPrice.asp
 ```
 http://www.iws.com.tw/
 
-台東站
-950台東市新站路221號
+臺東站
+950臺東市新站路221號
 0800-089414
 089-222317
 089-222078
@@ -1138,7 +1138,7 @@ http://www.iws.com.tw/
                     <td height="25" bgcolor="#FFDDDD"><span class="style2" style="font-size: 13px;">駕
                         駛責任乘客險</span></td>
                     <td colspan="2" style="width: 452px;" height="25" bgcolor="#FFDDDD"><span
-                        class="style2" style="font-size: 13px;">限乘人數內每人最高理賠新台幣<font
+                        class="style2" style="font-size: 13px;">限乘人數內每人最高理賠新臺幣<font
                           color="red">200萬</font>元整。</span></td>
                   </tr>
                   <tr class="style5 cp" style="cursor: pointer; background-color: white;"
@@ -1146,7 +1146,7 @@ http://www.iws.com.tw/
                     <td height="25" bgcolor="#FFDDDD"><span class="style2" style="font-size: 13px;">汽
                         車強制險</span></td>
                     <td colspan="2" style="width: 452px;" height="25" bgcolor="#FFDDDD"><span
-                        class="style2" style="font-size: 13px;">交通意外受害者每人最高給付新台幣<font
+                        class="style2" style="font-size: 13px;">交通意外受害者每人最高給付新臺幣<font
                           color="red">200萬</font>元整。</span></td>
                   </tr>
                   <tr class="style5 cp" style="cursor: pointer; background-color: white;"
@@ -1154,7 +1154,7 @@ http://www.iws.com.tw/
                     <td class="style2" style="font-size: 13px;" height="25" bgcolor="#FFDDDD">汽
                       車附加駕駛人傷害險</td>
                     <td colspan="2" style="width: 452px;" height="25" bgcolor="#FFDDDD"><span
-                        class="style2" style="font-size: 13px;">最高理賠新台幣<font color="red">200
+                        class="style2" style="font-size: 13px;">最高理賠新臺幣<font color="red">200
                           萬</font>元整。</span></td>
                   </tr>
                   <tr class="style5 cp" style="cursor: pointer; background-color: white;"
@@ -1164,8 +1164,8 @@ http://www.iws.com.tw/
                         事故責任險</span></td>
                     <td colspan="2" style="width: 452px;" height="25" bgcolor="#FFDDDD"><span
                         class="style2" style="font-size: 13px;">任意第三人意外事故責任險,每人傷
-                        亡保額新台幣<font color="red">300萬</font>元,每一事故傷亡總保額新台幣<font color="red">600
-                          萬</font>元,每一事故財物損失保險總額最高為新台幣<font color="red">100萬</font>元。</span></td>
+                        亡保額新臺幣<font color="red">300萬</font>元,每一事故傷亡總保額新臺幣<font color="red">600
+                          萬</font>元,每一事故財物損失保險總額最高為新臺幣<font color="red">100萬</font>元。</span></td>
                   </tr>
                   <tr class="style5 cp" style="cursor: pointer; background-color: white;"
                     align="center">

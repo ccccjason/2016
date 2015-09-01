@@ -12,7 +12,7 @@
           <td style="width: 187.15px;"><br>
           </td>
           <td style="text-align: center; width: 294.5px;">宜蘭 - 三星兩億</td>
-          <td style="text-align: center; width: 294.95px;">台東 - 貓山</td>
+          <td style="text-align: center; width: 294.95px;">臺東 - 貓山</td>
         </tr>
         <tr>
           <td style="text-align: left;">(2015/12/30 ~ 2016/1/4)<br>
@@ -34,7 +34,7 @@
         <tr>
           <td>市區距離</td>
           <td style="text-align: left;">距離羅東市區 7.5公里、車程19分鐘</td>
-          <td style="text-align: left;">距離台東市區 3.9公里、車程10分鐘</td>
+          <td style="text-align: left;">距離臺東市區 3.9公里、車程10分鐘</td>
         </tr>
         <tr>
           <td style="height: 20px; text-align: left;">腳踏車</td>
@@ -76,7 +76,7 @@
           <td style="text-align: left;">無</td>
         </tr>
         <tr>
-          <td>電玩機台</td>
+          <td>電玩機臺</td>
           <td style="text-align: left;">有</td>
           <td style="text-align: left;">有(WII)</td>
         </tr>
