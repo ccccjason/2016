@@ -30,7 +30,7 @@ require(["gitbook"], function(gitbook) {
 
         var navLinks = document.body.querySelectorAll("#js_right_nav a");
 
-        //绑定事件
+        //綁定事件
         nav.onclick = function(event){
 
         	if(event.target.tagName == "A"){
