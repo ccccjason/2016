@@ -17,16 +17,16 @@ http://www.love1028.com.tw/cityarea/about.html<br>
 
 
 ##觀月民宿
-http://www.sky-moon.com.tw/<br>
 地址： 970花蓮縣花蓮市國民八街92號<br>
+http://www.sky-moon.com.tw/<br>
 `雙人房 : 2400`<br>
 `加一個人 400`<br>
 
 
 
 ##國王陛下渡假民宿
-http://www.king13.com.tw/<br>
 地址：970 花蓮市節約街13號<br>
+http://www.king13.com.tw/<br>
 `雙人房 : 2800`<br>
 `三人房 : 3200`<br>
 
