@@ -64,3 +64,42 @@
         </tr>
       </tbody>
     </table>
+    
+    
+## 交通資訊
+<table style="width: 100%" border="1">
+  <tbody>
+    <tr>
+      <td style="text-align: center;">種類</td>
+      <td style="text-align: center;">班次/車型</td>
+      <td style="text-align: center;">出發地</td>
+      <td style="text-align: center;">出發時間</td>
+      <td style="text-align: center;">抵達地</td>
+      <td style="text-align: center;">抵達時間</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;"><br>
+      </td>
+      <td style="text-align: center;"><br>
+      </td>
+      <td style="text-align: center;">台北火車站</td>
+      <td style="text-align: center;"><br>
+      </td>
+      <td style="text-align: center;">台東火車站</td>
+      <td style="text-align: center;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;"><br>
+      </td>
+      <td style="text-align: center;"><br>
+      </td>
+      <td style="text-align: center;">花蓮火車站</td>
+      <td style="text-align: center;"><br>
+      </td>
+      <td style="text-align: center;">台北火車站</td>
+      <td style="text-align: center;"><br>
+      </td>
+    </tr>
+  </tbody>
+</table>
