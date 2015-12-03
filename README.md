@@ -1,7 +1,7 @@
 # 2016 台東跨年
 
 ## 旅費
-<table style="width: 100%;" border="1">
+<table style="width: 100%;">
   <tbody>
     <tr>
       <td>台東住宿兩晚 </td>
@@ -68,7 +68,7 @@
     
     
 ## 交通資訊
-<table style="width: 100%" border="1">
+<table style="width: 100%">
   <tbody>
     <tr>
       <td style="text-align: center;">種類</td>
