@@ -34,7 +34,7 @@
 </table>
 
 ## 住宿資訊
- <table border="1" width="100%">
+ <table width="100%">
       <tbody>
         <tr>
           <td style="text-align: center;">日期</td>
