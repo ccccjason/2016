@@ -21,7 +21,7 @@
         <span style="font-weight: bold;">每人2028元 (未包含油錢)</span></td>
     </tr>
     <tr>
-      <td>火車回來</td>
+      <td>火車來回</td>
       <td><span style="font-weight: bold;">每人1500元 (粗估)</span></td>
     </tr>
     <tr>
