@@ -1,7 +1,8 @@
 # 2016 台東跨年
 
 ## 行程
-<table style="width: 576px; height: 442px;">
+
+<table style="width: 100%;">
       <tbody>
         <tr>
           <td style="text-align: center;">時間</td>
